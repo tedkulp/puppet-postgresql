@@ -2,9 +2,9 @@ require 'formula'
 
 class Postgresql < Formula
   homepage 'http://www.postgresql.org/'
-  url 'http://ftp.postgresql.org/pub/source/v9.1.4/postgresql-9.1.4.tar.bz2'
-  sha1 'c75fd5696af02a275a104260eac8b3a4abe35682'
-  version '9.1.4-boxen2'
+  url 'http://ftp.postgresql.org/pub/source/v9.2.3/postgresql-9.2.3.tar.bz2'
+  sha1 'fe46685c36f6a7a04edd67be5695b4f5acebedff'
+  version '9.2.3-boxen2'
 
   depends_on 'ossp-uuid'
 
